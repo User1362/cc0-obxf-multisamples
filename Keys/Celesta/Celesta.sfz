@@ -1,0 +1,29 @@
+// Celesta — multisample render of a CC0 OB-Xf patch (Keys). See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=Celesta__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=7.6
+
+<region>
+sample=Celesta__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=7.2
+
+<region>
+sample=Celesta__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=7.7
+
+<region>
+sample=Celesta__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=9.0
+
+<region>
+sample=Celesta__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=10.6

@@ -1,0 +1,29 @@
+// OB Piano — multisample render of a CC0 OB-Xf patch (Keys). See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=OB_Piano__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=6.2
+
+<region>
+sample=OB_Piano__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=2.7
+
+<region>
+sample=OB_Piano__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=3.8
+
+<region>
+sample=OB_Piano__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=3.6
+
+<region>
+sample=OB_Piano__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=2.3

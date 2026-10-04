@@ -1,0 +1,29 @@
+// Unfolding — multisample render of a CC0 OB-Xf patch (Pads). See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=Unfolding__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=11.4
+
+<region>
+sample=Unfolding__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=10.5
+
+<region>
+sample=Unfolding__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=11.5
+
+<region>
+sample=Unfolding__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=8.2
+
+<region>
+sample=Unfolding__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=8.9
